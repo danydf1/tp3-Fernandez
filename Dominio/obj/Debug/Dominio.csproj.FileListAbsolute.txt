@@ -1,0 +1,18 @@
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\bin\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\bin\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\obj\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\TP2_Fernandez\Dominio\obj\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\bin\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\bin\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\obj\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez-master\Dominio\obj\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\bin\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\bin\Debug\Dominio.pdb
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\obj\Debug\Dominio.dll
+D:\utn\cuatri 3\Prog 3\por hacer\tp2-Fernandez\Dominio\obj\Debug\Dominio.pdb
